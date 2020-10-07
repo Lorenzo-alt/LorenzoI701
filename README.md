@@ -1,3 +1,7 @@
+# Print's da tela em execução
+![Screenshot701-1](https://user-images.githubusercontent.com/72031326/95372043-631cd680-08b1-11eb-81ca-d0e3cb380f65.png)
+![Screenshot701-2](https://user-images.githubusercontent.com/72031326/95372170-952e3880-08b1-11eb-910b-df8e3136048c.png)
+
 # LorenzoI701
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
